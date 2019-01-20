@@ -27,5 +27,5 @@ function iLoveTheBeatles (num) {
     num++;
   }
   while (num < 15);
-  return "I love the Beatles!"
+  return result;
 }

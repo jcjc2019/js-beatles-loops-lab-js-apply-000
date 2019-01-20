@@ -21,6 +21,7 @@ function johnLennonFacts(facts) {
 // johnLennonFacts(facts); 
 
 function iLoveTheBeatles (num) {
+  var result=[];
   
   return "I love the Beatles!"
 }

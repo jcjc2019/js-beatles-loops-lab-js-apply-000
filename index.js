@@ -17,9 +17,8 @@ function johnLennonFacts(facts) {
   }
   return newFacts;
 }
-
-
-johnLennonFacts(facts);
+//My note:no need to define facts. facts could be any array.
+// johnLennonFacts(facts); 
 
 function iLoveTheBeatles (num) {
   
